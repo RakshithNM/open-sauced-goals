@@ -1,57 +1,63 @@
 [
   {
+    "full_name": "christophercalm/if-im-gone",
+    "stargazers_count": 913,
+    "open_issues_count": 2,
+    "forks_count": 125
+  },
+  {
     "full_name": "mjolnirapp/AppGrid",
-    "stargazers_count": 576,
+    "stargazers_count": 577,
     "open_issues_count": 4,
     "forks_count": 25
   },
   {
     "full_name": "MFreidank/AnkiVim",
-    "stargazers_count": 157,
+    "stargazers_count": 158,
     "open_issues_count": 3,
     "forks_count": 16
   },
   {
     "full_name": "ankitpokhrel/jira-cli",
-    "stargazers_count": 1028,
+    "stargazers_count": 1091,
     "open_issues_count": 16,
     "forks_count": 72
   },
   {
     "full_name": "caseykneale/VIMKiller",
-    "stargazers_count": 1075,
+    "stargazers_count": 1077,
     "open_issues_count": 14,
     "forks_count": 11
   },
   {
     "full_name": "bensadeh/circumflex",
-    "stargazers_count": 95,
+    "stargazers_count": 97,
     "open_issues_count": 1,
     "forks_count": 1
   },
   {
     "full_name": "1Marc/todomvc-vanillajs-2022",
-    "stargazers_count": 623,
+    "stargazers_count": 625,
     "open_issues_count": 0,
     "forks_count": 56
   },
   {
     "full_name": "siva-sundar/the-frontend-interview",
-    "stargazers_count": 12,
+    "stargazers_count": 13,
     "open_issues_count": 0,
     "forks_count": 9
   },
   {
     "full_name": "sdras/js-explorer",
-    "stargazers_count": 263,
+    "stargazers_count": 264,
     "open_issues_count": 5,
     "forks_count": 16
   },
   {
     "full_name": "enocom/gopher-reading-list",
-    "stargazers_count": 7288,
+    "stargazers_count": 7291,
     "open_issues_count": 12,
-    "forks_count": 548
+    "forks_count": 547
   },
   {
     "full_name": "fabiomaia/linuxify",
@@ -61,21 +67,21 @@
   },
   {
     "full_name": "rwxrob/boost",
-    "stargazers_count": 428,
+    "stargazers_count": 430,
     "open_issues_count": 7,
     "forks_count": 28
   },
   {
     "full_name": "jesseduffield/lazygit",
-    "stargazers_count": 28169,
-    "open_issues_count": 348,
-    "forks_count": 1119
+    "stargazers_count": 28205,
+    "open_issues_count": 345,
+    "forks_count": 1120
   },
   {
     "full_name": "bolshchikov/js-must-watch",
-    "stargazers_count": 12806,
+    "stargazers_count": 12808,
     "open_issues_count": 9,
-    "forks_count": 903
+    "forks_count": 902
   },
   {
     "full_name": "shrutikapoor08/talent-for-hire",
@@ -85,69 +91,69 @@
   },
   {
     "full_name": "trekhleb/javascript-algorithms",
-    "stargazers_count": 144722,
-    "open_issues_count": 263,
-    "forks_count": 23974
+    "stargazers_count": 144980,
+    "open_issues_count": 265,
+    "forks_count": 24020
   },
   {
     "full_name": "thedaviddias/Front-End-Checklist",
-    "stargazers_count": 60493,
+    "stargazers_count": 60537,
     "open_issues_count": 3,
-    "forks_count": 5867
+    "forks_count": 5869
   },
   {
     "full_name": "shubheksha/companies-sponsoring-visas",
-    "stargazers_count": 1102,
+    "stargazers_count": 1104,
     "open_issues_count": 9,
     "forks_count": 96
   },
   {
     "full_name": "Jam3/math-as-code",
-    "stargazers_count": 14186,
+    "stargazers_count": 14189,
     "open_issues_count": 35,
-    "forks_count": 1034
+    "forks_count": 1033
   },
   {
     "full_name": "bit101/CodingMath",
-    "stargazers_count": 1048,
+    "stargazers_count": 1049,
     "open_issues_count": 6,
     "forks_count": 290
   },
   {
     "full_name": "ziishaned/learn-regex",
-    "stargazers_count": 41959,
+    "stargazers_count": 41980,
     "open_issues_count": 62,
     "forks_count": 6016
   },
   {
     "full_name": "InterviewMap/CS-Interview-Knowledge-Map",
-    "stargazers_count": 17869,
+    "stargazers_count": 17871,
     "open_issues_count": 42,
     "forks_count": 2605
   },
   {
     "full_name": "codecrafters-io/build-your-own-x",
-    "stargazers_count": 146598,
-    "open_issues_count": 250,
-    "forks_count": 13981
+    "stargazers_count": 147209,
+    "open_issues_count": 251,
+    "forks_count": 14027
   },
   {
     "full_name": "AllThingsSmitty/css-protips",
-    "stargazers_count": 21684,
+    "stargazers_count": 21721,
     "open_issues_count": 13,
-    "forks_count": 1796
+    "forks_count": 1797
   },
   {
     "full_name": "sdmg15/Best-websites-a-programmer-should-visit",
-    "stargazers_count": 47104,
+    "stargazers_count": 47125,
     "open_issues_count": 613,
-    "forks_count": 6173
+    "forks_count": 6176
   },
   {
     "full_name": "nvm-sh/nvm",
-    "stargazers_count": 58997,
+    "stargazers_count": 59068,
     "open_issues_count": 360,
-    "forks_count": 6267
+    "forks_count": 6273
   },
   {
     "full_name": "BloombergMedia/whatiscode",
@@ -163,20 +169,14 @@
   },
   {
     "full_name": "filamentgroup/loadCSS",
-    "stargazers_count": 6749,
+    "stargazers_count": 6750,
     "open_issues_count": 37,
     "forks_count": 580
   },
   {
     "full_name": "DrkSephy/es6-cheatsheet",
-    "stargazers_count": 12830,
+    "stargazers_count": 12834,
     "open_issues_count": 6,
-    "forks_count": 1087
-  },
-  {
-    "full_name": "amix/vimrc",
-    "stargazers_count": 27221,
-    "open_issues_count": 34,
-    "forks_count": 6970
+    "forks_count": 1096
   }
 ]
